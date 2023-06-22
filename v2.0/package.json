@@ -1,0 +1,23 @@
+{
+  "name": "v3.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.12.7",
+    "hardhat-ethers": "^1.0.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.1",
+    "solidity-coverage": "^0.8.2",
+    "web3modal": "^1.9.12"
+  }
+}
